@@ -26,8 +26,3 @@ Before running the project, make sure you have the following installed:
 - Scikit-learn
 - Pandas
 - Joblib
-
-You can install these dependencies by running the following command:
-
-```bash
-pip install -r requirements.txt
